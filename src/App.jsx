@@ -45,6 +45,26 @@ export default function ShoeShop() {
       price: 110,
       img: "https://craftandglory.in/cdn/shop/files/0003s_0057_DSC04101.ARW.jpg?v=1745994646&width=800",
     },
+   {
+  id: 6,
+  name: "Dakota Pro",
+  price: 110,
+  img: "https://workweargurus.com/cdn/shop/products/Apache-Dakota-Black-Metal-Free-Waterproof-Safety-Boots-Black-Main.jpg?v=1686802643",
+},
+{
+  id: 7,
+  name: "Douglas XT",
+  price: 110,
+  img: "https://workweargurus.com/cdn/shop/products/DeWalt-Douglas-Black-Waterproof-Safety-Boots-Black-Main.jpg?v=1686809060",
+},
+{
+  id: 8,
+  name: "HydraDig XT",
+  price: 110,
+  img: "https://workweargurus.com/cdn/shop/products/JCB-Hydradig-Safety-Work-Boots-Black-Product-Main.jpg?v=1686810491",
+}
+
+
   ];
 
   const filteredShoes = shoes.filter((shoe) =>
