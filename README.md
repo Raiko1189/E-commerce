@@ -41,6 +41,10 @@ ShoeVerse is a modern, responsive React-based UI for a work boots online store. 
    npm start
    ```
 
+## To see live
+
+https://e-commerce-pi-mauve.vercel.app/
+
 ## Usage
 
 - Navigate through the site using the navbar.
